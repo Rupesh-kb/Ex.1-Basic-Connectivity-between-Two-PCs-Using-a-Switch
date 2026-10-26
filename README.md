@@ -1,5 +1,4 @@
-## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch		
 
 # Objective
 
@@ -40,8 +39,8 @@ For Router Configuration (CLI):<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
 
-Insert screenshots showing ping success, configuration, or simulation results.
-________________________________________
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/49ab62e9-1f0e-49b2-9bc3-a2b2e830d308" />
+
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
 	
